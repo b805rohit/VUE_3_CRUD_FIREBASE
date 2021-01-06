@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-plus": "^1.0.1-beta.21",
+    "firebase": "^8.2.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
